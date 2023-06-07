@@ -1,12 +1,14 @@
+# 릴리즈 노트
+
 # ☑︎ 프로젝트 결과
 
 ---
 
-![Screenshot 2023-02-01 오후 4.23.11.png](https://github.com/hubjh/release-note/blob/master/Screenshot%202023-02-01%20%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE%204.23.11.png)
+![스크린샷 2023-02-01 오후 4.23.11.png](%E1%84%85%E1%85%B5%E1%86%AF%E1%84%85%E1%85%B5%E1%84%8C%E1%85%B3%20%E1%84%82%E1%85%A9%E1%84%90%E1%85%B3%204919b6bdf10c48eaa6631d6b1c21ed62/%25E1%2584%2589%25E1%2585%25B3%25E1%2584%258F%25E1%2585%25B3%25E1%2584%2585%25E1%2585%25B5%25E1%2586%25AB%25E1%2584%2589%25E1%2585%25A3%25E1%2586%25BA_2023-02-01_%25E1%2584%258B%25E1%2585%25A9%25E1%2584%2592%25E1%2585%25AE_4.23.11.png)
 
 ### 🔗 Link
 
-http://15.164.106.168/?products=python,hive,spark,hadoop,airflow,prometheus,grafana,datahub,elasticsearch,delta_lake,kafka,pandas,graphql-js,rails,react,tailwind,mobx,vuex,node,django,rabbitmq,kubernetes,gatsby,tableau,flask,fastapi,seaborn,queryme,storybook,vue,express,recoil,springboot,redux,grpc,nuxt,celery,mybatis,matplotlib,angular,next,redash,nest,laravel,liquibase,emotion,spring,powerbi,numpy
+[http://15.164.106.168/?products=python,hive,spark,hadoop,airflow,prometheus,grafana,datahub,elasticsearch,delta_lake,kafka,pandas,graphql-js,rails,react,tailwind,mobx,vuex,node,django,rabbitmq,kubernetes,gatsby,tableau,flask,fastapi,seaborn,queryme,storybook,vue,express,recoil,springboot,redux,grpc,nuxt,celery,mybatis,matplotlib,angular,next,redash,nest,laravel,liquibase,emotion,spring,powerbi,numpy](http://15.164.106.168/?products=python,hive,spark,hadoop,airflow,prometheus,grafana,datahub,elasticsearch,delta_lake,kafka,pandas,graphql-js,rails,react,tailwind,mobx,vuex,node,django,rabbitmq,kubernetes,gatsby,tableau,flask,fastapi,seaborn,queryme,storybook,vue,express,recoil,springboot,redux,grpc,nuxt,celery,mybatis,matplotlib,angular,next,redash,nest,laravel,liquibase,emotion,spring,powerbi,numpy)
 
 ## **결과의 의미**
 
