@@ -96,9 +96,7 @@
 | Operator | KubernetesPodOperator |
 | --- | --- |
 | cmds | [‘python3’, ‘foo.py’] |
-| 기능 | 1. Github API로 프레임워크들의 버전 정보들을 수집<br/><br/>2. Github에서 구할 수 없는 프레임워크들의 버전 정보를 수집
-
-HDFS에 JSON으로 포맷 |
+| 기능 | 1. Github API로 프레임워크들의 버전 정보들을 수집<br/><br/>2. Github에서 구할 수 없는 프레임워크들의 버전 정보를 수집<br/><br/>HDFS에 JSON으로 포맷 |
 
 ### Parser
 
