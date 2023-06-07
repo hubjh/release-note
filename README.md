@@ -55,7 +55,7 @@
 | --- |
 | https://api.github.com/repos/vuejs/vue/releases |
 
-### https://api.github.com/repos/{`owner`}/{`repo`}/releases
+### https://api.github.com/repos/{owner}/{repo}/releases
 
 | 경로 매개 변수 | Type | 필수 매개 변수 | 설명 |
 | --- | --- | --- | --- |
@@ -82,6 +82,9 @@
 2. 수집한 데이터를 Parquet로 가공 후 yellow 테이블로 관리
 3. yellow 테이블에서 SQL로 데이터 추출 후 lightsail 서버에 API로 전송
 4. lightsail 서버에서 Docker 컨테이너로 서비스 웹페이지에 데이터 갱신
+
+<br/>
+<br/>
 
 ## Airflow DAG
 
@@ -111,6 +114,9 @@
 | --- | --- |
 | cmds | [‘/bin/spark-submit’, ‘baz.py’] |
 | 기능 | yellow 테이블에서 spark sql로 필요한 데이터 추출<br/><br/>추출 데이터를 Amazon lightsail 서버에 API로 전송 |
+
+<br/>
+<br/>
 
 ### Amazon lightsail
 
